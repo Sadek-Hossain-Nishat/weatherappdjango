@@ -5,3 +5,6 @@ you can run this project in any version of python and django
 
 project's preview
 
+![weatherappdjango](https://user-images.githubusercontent.com/65479688/147816932-5dbe20fc-dc65-4ab3-9481-b0ca004fb153.png)
+
+
